@@ -1,4 +1,4 @@
-# PRO690 - Assignment #2
+# PRO690 - Assignment 2
 Student Name: Supriya Mutharasan
 Date: April 01 2022
 
